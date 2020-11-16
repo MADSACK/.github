@@ -1,4 +1,5 @@
 # Definition of Done
+Falls ein Punkt auf den konkrenten PR nicht anwendbar ist, kann dieser durchgestrichen werden.
 
 - [ ] Test sind angepasst / ergänzt und laufen erfolgreich durch
 - [ ] Testschritte sind dokumentiert
