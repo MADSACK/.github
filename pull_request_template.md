@@ -1,5 +1,5 @@
 # Definition of Done
-Falls ein Punkt auf den konkrenten PR nicht anwendbar ist, muss dieser mit Begründung durchgestrichen werden.
+Falls ein Punkt auf den konkreten PR nicht anwendbar ist, muss dieser mit Begründung durchgestrichen werden.
 
 - [ ] Test sind angepasst / ergänzt und laufen erfolgreich durch
 - [ ] Testschritte sind dokumentiert
