@@ -1,5 +1,5 @@
 # Definition of Done
-Falls ein Punkt auf den konkreten PR nicht anwendbar ist, muss dieser mit Begründung durchgestrichen werden.
+Falls ein Punkt auf den konkreten PR nicht anwendbar ist, sollte dieser mit Begründung durchgestrichen werden.
 
 - [ ] Test sind angepasst / ergänzt und laufen erfolgreich durch
 - [ ] Testschritte sind dokumentiert
@@ -10,3 +10,5 @@ Falls ein Punkt auf den konkreten PR nicht anwendbar ist, muss dieser mit Begrü
 - [ ] Deployment-Notes sind am Ticket dokumentiert
 - [ ] technische Dokumentation angepasst / ergänzt (z.B. Schnittstellen-Doku)
 - [ ] richtiger Ziel- und Basebranch wurde für den PR ausgewählt
+- [ ] Konformität mit den Kundenanforderungen überprüft
+- [ ] Anforderungsänderungen sind dokumentiert
