@@ -9,3 +9,4 @@ Falls ein Punkt auf den konkrenten PR nicht anwendbar ist, kann dieser durchgest
 - [ ] Readme angepasst / ergänzt
 - [ ] Deployment-Notes sind am Ticket dokumentiert
 - [ ] technische Dokumentation angepasst / ergänzt (z.B. Schnittstellen-Doku)
+- [ ] richtiger Ziel- und Basebranch wurde für den PR ausgewählt
